@@ -45,7 +45,7 @@
     "feathers-sync": "^2.0.0",
     "jsonwebtoken": "^8.5.1",
     "jwt-decode": "^2.2.0",
-    "mongoose": "^5.9.1",
+    "mongoose": "^5.9.4",
     "query-string": "^6.8.3",
     "serve-favicon": "^2.5.0",
     "util": "^0.12.1",
